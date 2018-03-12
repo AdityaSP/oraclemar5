@@ -1,0 +1,13 @@
+free
+vagrant@control:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        501692     407540      94152        636      29936     242944
+-/+ buffers/cache:     134660     367032
+Swap:            0          0          0
+vagrant@control:~$ free
+vagrant@web:~$ free
+             total       used       free     shared    buffers     cached
+Mem:        501692     257504     244188       5800      11820     122808
+-/+ buffers/cache:     122876     378816
+Swap:            0          0          0
+vagrant@web:~$ 
